@@ -1,0 +1,3 @@
+C:/Users/Hurdogan/CLionProjects/KnapsackAlg/cmake-build-debug/CMakeFiles/KnapsackAlg.dir
+C:/Users/Hurdogan/CLionProjects/KnapsackAlg/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hurdogan/CLionProjects/KnapsackAlg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
